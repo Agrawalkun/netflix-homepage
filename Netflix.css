@@ -184,8 +184,8 @@ h1 {
     /* font-weight: bolder; */
   }
   .netflix-logo {
-    height: 5.2rem;
-    width: 17.2rem;
+    height: 6.2rem;
+    width: 18.2rem;
   }
   .singin {
     margin-right: 9.2rem;
@@ -204,5 +204,9 @@ h1 {
   }
   .lang-box {
     margin-top: 10.8rem;
+    height: 4.8rem;
+    width: 10.5rem;
   }
+  h1{
+    margin-left:3.4rem;
 }
